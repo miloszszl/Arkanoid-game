@@ -1,0 +1,17 @@
+C:\Users\Miłosz\Desktop\TO-projekt-testy\UnitTestsArkanoid\UnitTestsArkanoid\obj\Debug\UnitTestsArkanoid.csprojResolveAssemblyReference.cache
+C:\Users\Miłosz\Desktop\TO-projekt-testy\UnitTestsArkanoid\UnitTestsArkanoid\bin\Debug\UnitTestsArkanoid.dll
+C:\Users\Miłosz\Desktop\TO-projekt-testy\UnitTestsArkanoid\UnitTestsArkanoid\bin\Debug\UnitTestsArkanoid.pdb
+C:\Users\Miłosz\Desktop\TO-projekt-testy\UnitTestsArkanoid\UnitTestsArkanoid\bin\Debug\Assembly-CSharp-Editor-firstpass.dll
+C:\Users\Miłosz\Desktop\TO-projekt-testy\UnitTestsArkanoid\UnitTestsArkanoid\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Miłosz\Desktop\TO-projekt-testy\UnitTestsArkanoid\UnitTestsArkanoid\bin\Debug\Assembly-CSharp.dll
+C:\Users\Miłosz\Desktop\TO-projekt-testy\UnitTestsArkanoid\UnitTestsArkanoid\bin\Debug\UnityEngine.dll
+C:\Users\Miłosz\Desktop\TO-projekt-testy\UnitTestsArkanoid\UnitTestsArkanoid\bin\Debug\UnityEngine.UI.dll
+C:\Users\Miłosz\Desktop\TO-projekt-testy\UnitTestsArkanoid\UnitTestsArkanoid\bin\Debug\UnityEditor.dll
+C:\Users\Miłosz\Desktop\TO-projekt-testy\UnitTestsArkanoid\UnitTestsArkanoid\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Miłosz\Desktop\TO-projekt-testy\UnitTestsArkanoid\UnitTestsArkanoid\bin\Debug\Assembly-CSharp-Editor-firstpass.pdb
+C:\Users\Miłosz\Desktop\TO-projekt-testy\UnitTestsArkanoid\UnitTestsArkanoid\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Miłosz\Desktop\TO-projekt-testy\UnitTestsArkanoid\UnitTestsArkanoid\bin\Debug\UnityEngine.xml
+C:\Users\Miłosz\Desktop\TO-projekt-testy\UnitTestsArkanoid\UnitTestsArkanoid\bin\Debug\UnityEngine.UI.xml
+C:\Users\Miłosz\Desktop\TO-projekt-testy\UnitTestsArkanoid\UnitTestsArkanoid\bin\Debug\UnityEditor.xml
+C:\Users\Miłosz\Desktop\TO-projekt-testy\UnitTestsArkanoid\UnitTestsArkanoid\obj\Debug\UnitTestsArkanoid.dll
+C:\Users\Miłosz\Desktop\TO-projekt-testy\UnitTestsArkanoid\UnitTestsArkanoid\obj\Debug\UnitTestsArkanoid.pdb

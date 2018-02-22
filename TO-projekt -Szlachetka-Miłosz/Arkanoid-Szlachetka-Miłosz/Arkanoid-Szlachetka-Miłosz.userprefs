@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Arkanoid-Szlachetka-Miłosz.CSharp.Plugins.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Bricks.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PlatformBonus.cs" Line="11" Column="3" />
+      <File FileName="Assets\Scripts\Bonus.cs" Line="8" Column="24" />
+      <File FileName="Assets\Scripts\GameController.cs" Line="21" Column="1" />
+      <File FileName="Assets\Scripts\ScoreBonus.cs" Line="8" Column="2" />
+      <File FileName="Assets\Scripts\SpeedBonus.cs" Line="9" Column="9" />
+      <File FileName="Assets\Scripts\BotStrategy.cs" Line="15" Column="9" />
+      <File FileName="Assets\Scripts\Bricks.cs" Line="31" Column="32" />
+      <File FileName="Assets\Scripts\ScoreUtils.cs" Line="31" Column="25" />
+      <File FileName="Assets\Scripts\BackgroundMusicSingleton.cs" Line="9" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

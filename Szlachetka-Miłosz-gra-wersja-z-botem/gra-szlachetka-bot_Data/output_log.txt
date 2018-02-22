@@ -1,0 +1,60 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTS 450 (ID=0xdc4)
+    Vendor:   NVIDIA
+    VRAM:     993 MB
+    Driver:   8.17.12.5922
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Miłosz\Desktop\Szlachetka-Miłosz-TO-PROJEKT\Szlachetka-Miłosz-gra-wersja-z-botem\gra-szlachetka-bot_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Miłosz\Desktop\Szlachetka-Miłosz-TO-PROJEKT\Szlachetka-Miłosz-gra-wersja-z-botem\gra-szlachetka-bot_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Miłosz\Desktop\Szlachetka-Miłosz-TO-PROJEKT\Szlachetka-Miłosz-gra-wersja-z-botem\gra-szlachetka-bot_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Miłosz\Desktop\Szlachetka-Miłosz-TO-PROJEKT\Szlachetka-Miłosz-gra-wersja-z-botem\gra-szlachetka-bot_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Miłosz\Desktop\Szlachetka-Miłosz-TO-PROJEKT\Szlachetka-Miłosz-gra-wersja-z-botem\gra-szlachetka-bot_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Miłosz\Desktop\Szlachetka-Miłosz-TO-PROJEKT\Szlachetka-Miłosz-gra-wersja-z-botem\gra-szlachetka-bot_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Miłosz\Desktop\Szlachetka-Miłosz-TO-PROJEKT\Szlachetka-Miłosz-gra-wersja-z-botem\gra-szlachetka-bot_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Miłosz\Desktop\Szlachetka-Miłosz-TO-PROJEKT\Szlachetka-Miłosz-gra-wersja-z-botem\gra-szlachetka-bot_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Miłosz\Desktop\Szlachetka-Miłosz-TO-PROJEKT\Szlachetka-Miłosz-gra-wersja-z-botem\gra-szlachetka-bot_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Miłosz\Desktop\Szlachetka-Miłosz-TO-PROJEKT\Szlachetka-Miłosz-gra-wersja-z-botem\gra-szlachetka-bot_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Miłosz\Desktop\Szlachetka-Miłosz-TO-PROJEKT\Szlachetka-Miłosz-gra-wersja-z-botem\gra-szlachetka-bot_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Miłosz\Desktop\Szlachetka-Miłosz-TO-PROJEKT\Szlachetka-Miłosz-gra-wersja-z-botem\gra-szlachetka-bot_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Miłosz\Desktop\Szlachetka-Miłosz-TO-PROJEKT\Szlachetka-Miłosz-gra-wersja-z-botem\gra-szlachetka-bot_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Miłosz\Desktop\Szlachetka-Miłosz-TO-PROJEKT\Szlachetka-Miłosz-gra-wersja-z-botem\gra-szlachetka-bot_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.050 seconds
+Platform assembly: C:\Users\Miłosz\Desktop\Szlachetka-Miłosz-TO-PROJEKT\Szlachetka-Miłosz-gra-wersja-z-botem\gra-szlachetka-bot_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Miłosz\Desktop\Szlachetka-Miłosz-TO-PROJEKT\Szlachetka-Miłosz-gra-wersja-z-botem\gra-szlachetka-bot_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.522636 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.648890 ms
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 476.
+Total: 0.304898 ms (FindLiveObjects: 0.029964 ms CreateObjectMapping: 0.022241 ms MarkObjects: 0.224580 ms  DeleteObjects: 0.027493 ms)
+
+C:/Users/Miłosz/Desktop/Szlachetka-Miłosz-TO-PROJEKT/Szlachetka-Miłosz-gra-wersja-z-botem/gra-szlachetka-bot_Data/Scores.txt
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.440202 ms
+
+Unloading 54 unused Assets to reduce memory usage. Loaded Objects now: 475.
+Total: 0.584465 ms (FindLiveObjects: 0.031200 ms CreateObjectMapping: 0.022241 ms MarkObjects: 0.320343 ms  DeleteObjects: 0.210061 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.518975 ms
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 480.
+Total: 0.288216 ms (FindLiveObjects: 0.026566 ms CreateObjectMapping: 0.022241 ms MarkObjects: 0.223035 ms  DeleteObjects: 0.016063 ms)
+
+C:/Users/Miłosz/Desktop/Szlachetka-Miłosz-TO-PROJEKT/Szlachetka-Miłosz-gra-wersja-z-botem/gra-szlachetka-bot_Data/Scores.txt
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.495806 ms
+
+Unloading 54 unused Assets to reduce memory usage. Loaded Objects now: 479.
+Total: 0.622770 ms (FindLiveObjects: 0.034289 ms CreateObjectMapping: 0.022859 ms MarkObjects: 0.343821 ms  DeleteObjects: 0.220873 ms)
+
+C:/Users/Miłosz/Desktop/Szlachetka-Miłosz-TO-PROJEKT/Szlachetka-Miłosz-gra-wersja-z-botem/gra-szlachetka-bot_Data/Scores.txt
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: f58 -> priority: 1 

@@ -1,0 +1,58 @@
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia\Arkanoid-Szlachetka-Miłosz\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia\Arkanoid-Szlachetka-Miłosz\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia\Arkanoid-Szlachetka-Miłosz\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia - Kopia\Arkanoid-Szlachetka-Miłosz\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia - Kopia\Arkanoid-Szlachetka-Miłosz\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia - Kopia\Arkanoid-Szlachetka-Miłosz\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Miłosz\Desktop\TO-projekt - Kopia - Kopia\Arkanoid-Szlachetka-Miłosz\obj\Debug\Assembly-CSharp-firstpass.pdb
